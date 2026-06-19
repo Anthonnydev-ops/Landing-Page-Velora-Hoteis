@@ -81,7 +81,7 @@ https://github.com/Anthonnydev-ops/Landing-Page-Velora-Hoteis.git
 cd velora-hotels
 ```
 
-3. Abra o arquivo `index.html` no navegador.
+3. Abra o arquivo `index.html` no navegador. Ou entre no link `https://landing-page-velora-hoteis.vercel.app/`
 
 ---
 
